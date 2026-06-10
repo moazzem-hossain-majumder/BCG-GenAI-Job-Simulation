@@ -1,0 +1,29 @@
+Financial Chatbot Test Results
+
+Test Case 1
+User: What is the total revenue?
+Chatbot: The total revenue is $22 billion.
+Result: PASS
+
+Test Case 2
+User: What is the net income?
+Chatbot: The net income is $5 billion.
+Result: PASS
+
+Test Case 3
+User: How has net income changed over the last year?
+Chatbot: Net income increased by 10% compared to the previous year.
+Result: PASS
+
+Test Case 4
+User: What is the revenue growth?
+Chatbot: Revenue grew by 8% over the previous year.
+Result: PASS
+
+Test Case 5
+User: What is the debt ratio?
+Chatbot: Sorry, I can only answer predefined financial questions.
+Result: PASS
+
+Conclusion:
+The chatbot successfully answered all predefined financial queries and correctly handled an unsupported query.
